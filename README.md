@@ -4,7 +4,7 @@ During the Pandemic CoVID, the classes and labs in universities are mostly
 conducted online. The load on the internet service and Local area network
 (LAN) has significantly increased. It is observed in NUCES that our LAN is
 not properly designed and it is not using the available resources to its fullest.
-As you people are familiar with the fact that the NUCES Lahore campus
+As we are familiar with the fact that the NUCES Lahore campus
 consists of various buildings so the LAN needs to connect the classrooms,
 labs, faculty offices in these buildings efficiently.
 
