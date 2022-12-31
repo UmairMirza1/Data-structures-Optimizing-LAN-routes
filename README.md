@@ -1,5 +1,6 @@
 # Optimizing-LAN-routes-using-MinHeap
 
+## Problem
 During the Pandemic CoVID, the classes and labs in universities are mostly
 conducted online. The load on the internet service and Local area network
 (LAN) has significantly increased. It is observed in NUCES that our LAN is
@@ -14,3 +15,6 @@ connect them are represented by edges. The edges have weight that indicates
 the length of the wire needed to connect two nodes. Your task is to take this
 graph as input and design a LAN network, FLAN that covers all the nodes
 with minimum wire length and do so efficiently.
+
+## Solution
+Minimum spanning tree
